@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.5.5",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.5/app-release.apk",
-  "notes": "Bản 3.5.5: giao diện đa ngôn ngữ Việt/Anh/Trung (tự theo ngôn ngữ hệ thống)."
+  "versionCode": 38,
+  "versionName": "3.5.6",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.6/app-release.apk",
+  "notes": "Bản 3.5.6: sửa 3 lỗi — (1) mất mạng không mất kiểm soát, (2) không báo nhầm 'Con đã về nhà' khi thiết bị ở yên trong vùng, (3) tự cập nhật hoạt động."
 }
