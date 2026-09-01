@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "3.5.2",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.2/app-release.apk",
-  "notes": "Bản 3.5.2: hỗ trợ báo cáo theo GROUP (bố mẹ đọc chung) + cơ chế tự cập nhật sideload."
+  "versionCode": 35,
+  "versionName": "3.5.3",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.3/app-release.apk",
+  "notes": "Bản 3.5.3: sửa lỗi cảnh báo hoạt động bất thường vẫn gửi vào chat riêng dù đã chọn GROUP."
 }
