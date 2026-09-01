@@ -1,0 +1,6 @@
+{
+  "versionCode": 34,
+  "versionName": "3.5.2",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.2/app-release.apk",
+  "notes": "Bản 3.5.2: hỗ trợ báo cáo theo GROUP (bố mẹ đọc chung) + cơ chế tự cập nhật sideload."
+}
