@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "3.5.10",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.10/app-release.apk",
-  "notes": "Bản 3.5.10: (1) fix máy con không cài được bản mới khi bấm thông báo cập nhật — thêm trình cài APK (Android gốc/MIUI/Google/Samsung) vào danh sách miễn trừ; (2) tinh chỉnh từ điển chống báo sai khi đọc báo chính thống — 'ma túy' chuyển sang báo mềm, 'gánh nặng' làm rõ thành 'gánh nặng cho mọi người'."
+  "versionCode": 43,
+  "versionName": "3.5.11",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.11/app-release.apk",
+  "notes": "Bản 3.5.11: kiểm soát nội dung ĐỎ thông minh hơn — từ tự-hại/xâm-hại trẻ em vẫn KHÓA TỨC THÌ; từ ma túy/lừa đảo chỉ khóa khi trẻ TƯƠNG TÁC hoặc XEM LÂU >=10s (còn lướt thoáng qua chỉ báo mềm, hết khóa oan khi đọc báo chính thống)."
 }
