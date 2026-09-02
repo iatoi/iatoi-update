@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.5.7",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.7/app-release.apk",
-  "notes": "Bản 3.5.7: CHẨN ĐOÁN & TỰ VỆ — (1) telemetry ghi log hoạt động để /diag kéo về phân tích 'mất kiểm soát'; (2) Restart Watchdog tự hồi sinh service khi bị OEM giết (fix gốc 'liên tục mất kiểm soát'); (3) lệnh /diag chẩn đoán trạng thái + log 25 sự kiện."
+  "versionCode": 41,
+  "versionName": "3.5.9",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.9/app-release.apk",
+  "notes": "Bản 3.5.9: UX giám sát minh bạch - (1) báo lý do app bị khóa cho trẻ (notification + toast, theo ngôn ngữ máy con); (2) cảnh báo trước 5 phút khi sắp hết giờ (báo cả trẻ lẫn phụ huynh); (3) thêm màn hình trạng thái thời gian dùng cho trẻ."
 }
