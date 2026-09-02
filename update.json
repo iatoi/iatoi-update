@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "3.5.9",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.9/app-release.apk",
-  "notes": "Bản 3.5.9: UX giám sát minh bạch - (1) báo lý do app bị khóa cho trẻ (notification + toast, theo ngôn ngữ máy con); (2) cảnh báo trước 5 phút khi sắp hết giờ (báo cả trẻ lẫn phụ huynh); (3) thêm màn hình trạng thái thời gian dùng cho trẻ."
+  "versionCode": 42,
+  "versionName": "3.5.10",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.10/app-release.apk",
+  "notes": "Bản 3.5.10: (1) fix máy con không cài được bản mới khi bấm thông báo cập nhật — thêm trình cài APK (Android gốc/MIUI/Google/Samsung) vào danh sách miễn trừ; (2) tinh chỉnh từ điển chống báo sai khi đọc báo chính thống — 'ma túy' chuyển sang báo mềm, 'gánh nặng' làm rõ thành 'gánh nặng cho mọi người'."
 }
