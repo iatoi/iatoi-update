@@ -1,6 +1,1 @@
-{
-  "versionCode": 48,
-  "versionName": "3.5.16",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.16/app-release-v3.5.16.apk",
-  "notes": "Bản 3.5.16: sửa lỗi màn hình 'Chống gỡ' (Device Admin) bị đá văng mỗi lần vào — thêm thời gian chờ 2 phút khi kích hoạt. Cài xong hết gián đoạn khi thao tác trong Cài đặt."
-}
+{"versionCode":49,"versionName":"3.6.0","apkUrl":"https://github.com/iatoi/iatoi-update/releases/download/v3.6.0/iatoi-parental-control-v3.6.0.apk","notes":"v3.6.0: Ghi & gửi lại cảnh báo khi mất mạng (offline outbox). Giám sát + khóa vẫn hoạt động khi offline."}
