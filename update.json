@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "3.5.11",
-  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.11/app-release.apk",
-  "notes": "Bản 3.5.11: kiểm soát nội dung ĐỎ thông minh hơn — từ tự-hại/xâm-hại trẻ em vẫn KHÓA TỨC THÌ; từ ma túy/lừa đảo chỉ khóa khi trẻ TƯƠNG TÁC hoặc XEM LÂU >=10s (còn lướt thoáng qua chỉ báo mềm, hết khóa oan khi đọc báo chính thống)."
+  "versionCode": 48,
+  "versionName": "3.5.16",
+  "apkUrl": "https://github.com/iatoi/iatoi-update/releases/download/v3.5.16/app-release-v3.5.16.apk",
+  "notes": "Bản 3.5.16: sửa lỗi màn hình 'Chống gỡ' (Device Admin) bị đá văng mỗi lần vào — thêm thời gian chờ 2 phút khi kích hoạt. Cài xong hết gián đoạn khi thao tác trong Cài đặt."
 }
