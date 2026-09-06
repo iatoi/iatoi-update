@@ -1,1 +1,1 @@
-{"versionCode":55,"versionName":"3.7.4","apkUrl":"https://github.com/iatoi/iatoi-update/releases/download/v3.7.4/app-release.apk","notes":"v3.7.4: fix khoa gio hoc chay ca T7/CN - loai tru cuoi tuan, het bi khoa lien tuc."}
+{"versionCode":56,"versionName":"3.7.5","apkUrl":"https://github.com/iatoi/iatoi-update/releases/download/v3.7.5/app-release.apk","notes":"v3.7.5: hien thi ten app + ngu canh trong bao dong; fix bao dong gia snow; tang timeout AI phan loai 8s->20s."}
