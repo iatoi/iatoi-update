@@ -35,6 +35,14 @@ Khoảng **66 lệnh** Telegram. Xem đầy đủ trong [hướng dẫn sử d�
 
 ---
 
+<!-- ẢNH SẢN PHẨM — chèn vào đây khi có:
+     docs/screenshot-app.png      màn hình chính của ứng dụng trên máy con
+     docs/screenshot-canhbao.png  một cảnh báo trong Telegram
+     docs/screenshot-today.png    kết quả lệnh /today hoặc /guard
+     Cú pháp: <img src="docs/ten-file.png" width="260"> đặt trong khối <div align="center"> -->
+
+---
+
 ## Ba điều nên biết trước khi dùng
 
 **IATOI không giấu trẻ.** Ứng dụng hiện rõ trên máy con kèm thông báo *"đang được giám sát"*. Đây là lựa chọn có chủ ý: giám sát lén một đứa trẻ, đến ngày nó phát hiện, cái mất nhiều hơn cái được.
@@ -59,7 +67,7 @@ Trên máy bố mẹ, mở Telegram, nhắn cho [@BotFather](https://t.me/BotFat
 
 ### 2. Cài ứng dụng lên máy con
 
-Trên **máy của con**, mở [trang tải bản mới nhất](https://github.com/iatoi/iatoi-update/releases/latest) và tải **`app-release.apk`**.
+Trên **máy của con**, mở [trang tải bản mới nhất](https://github.com/iatoi/iatoi-update/releases/latest) và tải file **`IATOI_GiamSat...apk`**.
 
 Mở file vừa tải, Android hỏi cho phép cài từ nguồn này thì chọn **Cho phép**.
 
@@ -93,7 +101,7 @@ Mỗi bản phát hành có ba file trong mục **Assets**. Bố mẹ chỉ cầ
 
 | File | Có cần tải |
 |---|---|
-| **`app-release.apk`** — ứng dụng IATOI | ✅ **Tải file này** |
+| **`IATOI_GiamSat_v3.8.4.apk`** — ứng dụng IATOI | ✅ **Tải file này** |
 | `Source code (zip)` | ❌ Không |
 | `Source code (tar.gz)` | ❌ Không |
 

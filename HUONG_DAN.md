@@ -27,7 +27,7 @@ Máy con **không cần root**, không dùng Magisk — cài như app thường 
 - 1 máy con (Android 7.0 trở lên) — đây là máy của trẻ, sẽ cài IATOI.
 - 1 tài khoản Telegram của bố mẹ (đã cài app Telegram trên máy bố mẹ và đăng nhập).
 - 1 **Bot Token** Telegram (xem bước tạo bot bên dưới).
-- File cài đặt `app-release.apk` — [tải bản mới nhất tại đây](https://github.com/iatoi/iatoi-update/releases/latest).
+- File cài đặt `IATOI_GiamSat_v3.8.4.apk` — [tải bản mới nhất tại đây](https://github.com/iatoi/iatoi-update/releases/latest).
 
 **Tạo Bot Telegram (1 lần duy nhất):**
 1. Mở Telegram, nhắn cho [@BotFather](https://t.me/BotFather).
@@ -39,7 +39,7 @@ Máy con **không cần root**, không dùng Magisk — cài như app thường 
 
 ## 2. Cài đặt lên máy con
 
-1. Trên máy con, mở [trang tải bản mới nhất](https://github.com/iatoi/iatoi-update/releases/latest) và tải **`app-release.apk`**.
+1. Trên máy con, mở [trang tải bản mới nhất](https://github.com/iatoi/iatoi-update/releases/latest) và tải file **`IATOI_GiamSat...apk`**.
    (Hoặc tải trên máy khác rồi chép sang qua USB, Google Drive, Zalo gửi tệp…)
 2. Mở file APK → Android sẽ hỏi **"Cho phép cài đặt từ nguồn không xác định"** → bật cho phép.
 3. Bấm **Cài đặt**. Hoàn tất → bấm **Mở**.
