@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 Hướng dẫn sử dụng
+    url: https://github.com/iatoi/iatoi-update/blob/main/HUONG_DAN.md
+    about: Cài đặt, ghép nối Telegram, toàn bộ lệnh, xử lý sự cố
+  - name: 🔒 Chính sách riêng tư
+    url: https://github.com/iatoi/iatoi-update/blob/main/CHINH_SACH_RIENG_TU.md
+    about: Dữ liệu nào được thu thập, gửi đi đâu, ai đọc được

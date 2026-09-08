@@ -1,0 +1,52 @@
+name: 🐞 Báo lỗi
+description: Ứng dụng chạy không đúng, báo động nhầm, hoặc lệnh không có tác dụng
+title: "[Lỗi] "
+labels: ["lỗi"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã báo lỗi. Điền càng rõ thì sửa càng nhanh.
+
+        ⚠️ **Trước khi gửi:** nếu bạn dán kết quả lệnh `/diag`, nhớ **xóa Token bot** nếu thấy nó xuất hiện. Token lộ ra là người khác điều khiển được máy con.
+  - type: textarea
+    id: chuyen-gi
+    attributes:
+      label: Chuyện gì xảy ra
+      placeholder: Ví dụ: Con mở Zalo là bị đá về màn hình chính, không dùng được.
+    validations:
+      required: true
+  - type: textarea
+    id: mong-doi
+    attributes:
+      label: Bạn mong nó chạy thế nào
+    validations:
+      required: true
+  - type: textarea
+    id: cac-buoc
+    attributes:
+      label: Làm thế nào để gặp lại lỗi
+      placeholder: |
+        1. Mở ứng dụng ...
+        2. Bấm vào ...
+        3. Lỗi xuất hiện
+  - type: input
+    id: phien-ban
+    attributes:
+      label: Phiên bản IATOI
+      placeholder: "3.8.4 (xem trong ứng dụng hoặc gõ /status)"
+    validations:
+      required: true
+  - type: input
+    id: may
+    attributes:
+      label: Máy con là máy gì, Android mấy
+      placeholder: "Ví dụ: Xiaomi Redmi Note 7 Pro, Android 10 (MIUI 12)"
+    validations:
+      required: true
+  - type: textarea
+    id: diag
+    attributes:
+      label: Kết quả lệnh /diag (nếu có)
+      description: Gõ /diag trong Telegram rồi chép kết quả vào đây. NHỚ XÓA TOKEN BOT.
+      render: text
