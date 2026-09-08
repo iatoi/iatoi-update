@@ -13,10 +13,12 @@
 | File | Là gì | Có cần tải không |
 |---|---|---|
 | **`app-release.apk`** | Ứng dụng IATOI, cài lên máy con | ✅ **Tải file này** |
-| `Source code (zip)` | Bản sao mã nguồn, GitHub tự đính kèm | ❌ Không |
-| `Source code (tar.gz)` | Cũng là mã nguồn, chỉ khác định dạng nén | ❌ Không |
+| `Source code (zip)` | GitHub tự đính kèm, xem giải thích bên dưới | ❌ Không |
+| `Source code (tar.gz)` | Cùng nội dung, chỉ khác định dạng nén | ❌ Không |
 
-Hai file `Source code` do GitHub **tự động tạo** cho mọi phiên bản của mọi dự án — đó là mã lập trình dành cho người phát triển, **không cài lên điện thoại được**. Tải nhầm thì máy sẽ không mở được file, không hư hỏng gì cả.
+Hai file `Source code` do GitHub **tự động tạo** cho mọi phiên bản của mọi dự án, không ai tắt được. Chúng là ảnh chụp **của chính kho này** — tức chỉ gồm 3 file cấu hình (`README.md`, `update.json`, `.gitignore`), tổng cộng khoảng **1,5 KB**.
+
+> ⚠️ Nói cho rõ: **mã nguồn ứng dụng IATOI không nằm trong hai file đó** và không được phát hành công khai. Kho chứa mã nguồn là kho riêng tư. Hai file này không cài lên điện thoại được; tải nhầm thì máy chỉ báo không mở được file, không hư hỏng gì.
 
 ---
 
@@ -58,7 +60,7 @@ Nếu đây là lần đầu dùng tính năng cập nhật, gõ một lần l�
 IATOI dùng những quyền mà Google Play không cho phép với ứng dụng thường (như chặn con gỡ ứng dụng). App được phát miễn phí ngoài Play, cài trực tiếp bằng file APK.
 
 **Cài ngoài Play có an toàn không?**
-File APK ở đây được ký bằng chữ ký riêng của IATOI, cố định qua mọi phiên bản. Android tự kiểm chữ ký này mỗi lần cập nhật — nếu ai đó đưa file giả, máy sẽ **từ chối cài đè**. Mã nguồn để công khai, ai cũng đọc được.
+File APK ở đây được ký bằng chữ ký riêng của IATOI, cố định qua mọi phiên bản. Android tự kiểm chữ ký này mỗi lần cập nhật — nếu ai đó đưa file giả, máy sẽ **từ chối cài đè**.
 
 **Máy con cần Android mấy?**
 Android 7.0 trở lên. Máy Android 11 trở lên có thêm tính năng chụp ảnh màn hình làm bằng chứng khi báo động.
@@ -70,9 +72,8 @@ Không. IATOI chạy hoàn toàn trên máy chưa root.
 
 ## Dành cho người phát triển
 
-Repo này chỉ chứa APK đã ký (chứng chỉ công khai) và file `update.json`. **Khóa ký (keystore) và mật khẩu không nằm ở đây.**
-
-Mã nguồn: [iatoi/iatoi-parental-control](https://github.com/iatoi/iatoi-parental-control)
+Kho công khai này chỉ chứa APK đã ký (kèm chứng chỉ công khai) và file `update.json`.
+**Khóa ký (keystore), mật khẩu và mã nguồn không nằm ở đây** — mã nguồn để trong kho riêng tư.
 
 Quy trình ra bản mới:
 
